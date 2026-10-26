@@ -25,12 +25,12 @@ Nodemon(npm install -g nodemon)
 npm start 
 
 ## Github Command
-echo "# nodeReopsitory" >> README.md
+echo "# Node_API_REPO" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Dipali-S-Vidhate/nodeReopsitory.git
+git remote add origin https://github.com/Dipali-S-Vidhate/Node_API_REPO.git
 git push -u origin main
 
 
